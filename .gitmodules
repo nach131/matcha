@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:nach131/matcha_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:nach131/matcha_frontend.git
